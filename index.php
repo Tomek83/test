@@ -1,1 +1,2 @@
-plik index
+commit1
+commit2
