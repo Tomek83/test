@@ -1,4 +1,9 @@
 {
   "name": "test/test",
-  "require": {}
+  "require": {},
+  "autoload": {
+    "files": [
+      "config.php",
+    ]
+  }
 }
