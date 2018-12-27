@@ -3,7 +3,7 @@
   "require": {},
   "autoload": {
     "files": [
-      "config.php",
+      "config.php"
     ]
   }
 }
