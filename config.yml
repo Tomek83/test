@@ -1,0 +1,6 @@
+ID: 12
+NAME: 'Tomasz'
+SURNAME: 'Antczak'
+TYPE_GROUPS:
+  local: ['A1000', 'A0100', 'A0010']
+  news: ['B1000', 'B0001', 'B0100']

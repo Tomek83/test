@@ -1,2 +1,7 @@
-commit1
-commit2
+<?php
+
+require_once 'vendor/autoload.php';
+
+use misc\lib\config;
+
+var_dump(config::instance());

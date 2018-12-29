@@ -1,6 +1,14 @@
 {
   "name": "test/test",
-  "require": {},
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Tomek83/misc"
+    }
+  ],
+  "require": {
+    "misc/misc": "dev-master"
+  },
   "autoload": {
     "files": [
       "config.php"
