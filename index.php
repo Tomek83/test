@@ -7,8 +7,6 @@ use test\app\dump;
 
 $dump = new dump();
 
-$dump->echo_global();
-
 $dump->echo_config();
 
 //var_dump(config::instance());

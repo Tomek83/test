@@ -2,8 +2,6 @@
 
 use misc\lib\config;
 
-config::instance('config.yml');
+define('CONFIG_FILE', realpath(__DIR__) . '/config.yml');
 
-$GLOBALS['VAR1'] = "var 1 global";
-$GLOBALS['VAR2'] = "var 2 blobal";
-
+config::instance(CONFIG_FILE);

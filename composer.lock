@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4d3e9649ef905b51b5991a452e6a9e66",
+    "packages": [
+        {
+            "name": "misc/misc",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Tomek83/misc.git",
+                "reference": "2cfc64281b60baf0dd83bda8631ca0ac5a19bf9b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Tomek83/misc/zipball/2cfc64281b60baf0dd83bda8631ca0ac5a19bf9b",
+                "reference": "2cfc64281b60baf0dd83bda8631ca0ac5a19bf9b",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "misc\\lib\\": "lib/"
+                }
+            },
+            "support": {
+                "source": "https://github.com/Tomek83/misc/tree/master",
+                "issues": "https://github.com/Tomek83/misc/issues"
+            },
+            "time": "2018-12-30T19:31:04+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "misc/misc": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
