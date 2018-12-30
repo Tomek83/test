@@ -10,6 +10,9 @@
     "misc/misc": "dev-master"
   },
   "autoload": {
+    "psr-4": {
+      "test\\app\\": "App/"
+    },
     "files": [
       "config.php"
     ]
