@@ -3,7 +3,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/Tomek83/misc"
+      "url": "https://tomek_antczak@bitbucket.org/tomek_antczak/misc.git"
     }
   ],
   "require": {
@@ -11,7 +11,8 @@
   },
   "autoload": {
     "psr-4": {
-      "test\\app\\": "App/"
+      "test\\app\\": "app/",
+      "misc\\lib\\": "lib/"
     },
     "files": [
       "config.php"

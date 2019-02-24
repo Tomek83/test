@@ -4,21 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d3e9649ef905b51b5991a452e6a9e66",
+    "content-hash": "5681f91a4b8e7fd7458e9bc37db6ba86",
     "packages": [
         {
             "name": "misc/misc",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Tomek83/misc.git",
-                "reference": "2cfc64281b60baf0dd83bda8631ca0ac5a19bf9b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/Tomek83/misc/zipball/2cfc64281b60baf0dd83bda8631ca0ac5a19bf9b",
-                "reference": "2cfc64281b60baf0dd83bda8631ca0ac5a19bf9b",
-                "shasum": ""
+                "url": "https://tomek_antczak@bitbucket.org/tomek_antczak/misc.git",
+                "reference": "0368c30743f6ec34ddee725cb3ac08922fec331f"
             },
             "type": "library",
             "autoload": {
@@ -26,11 +20,7 @@
                     "misc\\lib\\": "lib/"
                 }
             },
-            "support": {
-                "source": "https://github.com/Tomek83/misc/tree/master",
-                "issues": "https://github.com/Tomek83/misc/issues"
-            },
-            "time": "2018-12-30T19:31:04+00:00"
+            "time": "2019-01-03T20:21:27+00:00"
         }
     ],
     "packages-dev": [],
